@@ -540,26 +540,6 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="HAML_CLASS">
-      <value>
-        <option name="FOREGROUND" value="80" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="HAML_FILTER">
-      <value>
-        <option name="FOREGROUND" value="800000" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
     <option name="HAML_FILTER_CONTENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -590,31 +570,11 @@
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
-    <option name="HAML_RUBY_START">
-      <value>
-        <option name="FOREGROUND" value="80" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="ccccff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="HAML_XHTML">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
